@@ -1,2 +1,1 @@
-# fact or question about Ruby or JavaScript 
-
+# Does Ruby translate to any other programming languages easily?  
